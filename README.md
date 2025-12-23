@@ -1,24 +1,25 @@
-# To-Do List com Interface Gráfica (Tkinter)
-Aplicação desktop desenvolvida em Python utilizando Tkinter, com foco em boas práticas
-de organização de código, experiência do usuário e persistência de dados.
-# Demonstração
-![Interface da aplicação](screenshots/interface.png)
-# Funcionalidades
-- Adicionar tarefas
-- Remover tarefas
-- Persistência de dados em arquivo JSON
-- Interface gráfica simples e intuitiva
-- Atalho de teclado (Enter para adicionar tarefa)
-# Tecnologias utilizadas
+# To-Do with Graphical Interface (Tkinter)
+Desktop application developed in Python using Tkinter, focusing on best practices
+of code organization, user experience, and data persistence.
+
+# Demonstration
+![Application Interface](screenshots/interface.png)
+# Features
+- Add tasks
+- Remove tasks
+- Data persistence in JSON file
+- Simple and intuitive graphical interface
+- Keyboard shortcut (Enter to add task)
+# Technologies used
 - Python 3
 - Tkinter
 - JSON
-# Estrutura do projeto
-O projeto segue uma organização modular, separando:
-- Ponto de entrada (`main.py`)
-- Lógica da aplicação (`app.py`)
-- Configurações (`config.py`)
-- Dados persistentes (`tasks.json`)
+# Project structure
+The project follows a modular organization, separating:
+- Entry point (`main.py`)
+- Application logic (`app.py`)
+- Configurations (`config.py`)
+- Persistent data (`tasks.json`)
 # macOS / Linux
 ```bash
 python3 -m src.main
