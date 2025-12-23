@@ -21,4 +21,4 @@ O projeto segue uma organização modular, separando:
 - Dados persistentes (`tasks.json`)
 # macOS / Linux
 ```bash
-python3 -m src.main# todo-list-tkinter
+python3 -m src.main
