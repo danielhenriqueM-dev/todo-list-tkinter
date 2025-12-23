@@ -1,0 +1,11 @@
+*.py[cod]
+*.pyo
+venv/
+.env/
+.venv/
+.vscode/
+.DS_Store
+*.log
+*.tmp
+*.swp
+data/*.bak
